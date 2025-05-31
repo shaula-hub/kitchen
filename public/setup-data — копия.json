@@ -1,0 +1,61 @@
+{
+  "style": {
+    "name": ["english", "classic"],
+    "picture": ["style-english.png", "style-classic.png"]
+  },
+  "dimensions": {
+    "length": "100",
+    "left": "0",
+    "right": "0"
+  },
+  "front": {
+    "name": ["material-1", "material-2"],
+    "picture": ["front-1.png", "front-2.png"],
+    "quality": ["econom", "standard", "premium"]
+  },
+  "table": {
+    "name": ["material-1", "material-2"],
+    "picture": ["table-1.png", "table-2.png"],
+    "quality": ["econom", "standard", "premium"]
+  },
+  "hooks": {
+    "name": ["material-1", "material-2"],
+    "picture": ["hooks-1.png", "hooks-2.png"],
+    "quality": ["econom", "standard", "premium"]
+  },
+  "boxes": {
+    "name": ["material-1", "material-2"],
+    "picture": ["boxes-1.png", "boxes-2.png"],
+    "quality": ["econom", "standard", "premium"]
+  },
+  "penals": {
+    "name": ["material-1", "material-2"],
+    "picture": ["penals-1.png", "penals-2.png"],
+    "quality": ["econom", "standard", "premium"]
+  },
+  "hands": {
+    "name": ["material-1", "material-2"],
+    "picture": ["hands-1.png", "hands-2.png"],
+    "quality": ["econom", "standard", "premium"]
+  },
+  "fartuk": {
+    "name": ["material-1", "material-2"],
+    "picture": ["fartuk-1.png", "fartuk-2.png"],
+    "quality": ["econom", "standard", "premium"]
+  },
+  "bottles": {
+    "name": ["material-1", "material-2"],
+    "picture": ["bottles-1.png", "bottles-2.png"],
+    "quality": ["econom", "standard", "premium"]
+  },
+  "lift": {
+    "name": ["material-1", "material-2"],
+    "picture": ["lift-1.png", "lift-2.png"],
+    "quality": ["econom", "standard", "premium"]
+  },
+  "inserts": {
+    "name": ["material-1", "material-2"],
+    "picture": ["inserts-1.png", "inserts-2.png"],
+    "quality": ["econom", "standard", "premium"]
+  }
+}
